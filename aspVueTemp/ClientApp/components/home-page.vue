@@ -11,6 +11,9 @@
         <h1>Home <em>Slice</em></h1>
         <h3>Cut your Expenses ~ Manage your Debt</h3>
     </div>
+
+    <br>
+    <img class="col-md-4 col-centered" src="/images/homeslice_logo.png" alt="homeslice brand" />
 </div>
 
 <hr />
